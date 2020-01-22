@@ -3,7 +3,6 @@ import { Component } from 'react';
 import { connect } from 'react-redux';
 import { History } from 'history';
 
-
 interface ComposeCompProps {
     authorized: string;
     history?: History;
